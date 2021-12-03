@@ -8,7 +8,7 @@ import NavBar from './NavBar'
 import Footer from './footer'
 import Imageprofile from './imageprofile'
 import classes from './form.module.css'
-Import Image from 'next/image'
+
 const Error = () => {
 return <div>
 <NavBar/>
