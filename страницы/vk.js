@@ -1,5 +1,5 @@
 import React from 'react'
-
+import Image from 'next/image'
 import vk from './vk.png'
 import inst from './inst.jpg'
 import {NavLink} from "react-router-dom"
