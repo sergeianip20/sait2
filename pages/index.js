@@ -5,7 +5,7 @@ import s from './form.module.css'
 import For from './for'
 import NavBar from './NavBar'
 import Price from './price'
-import Image from 'next/image'
+
 import Footer from './footer'
 import Slider from './slider.js';
 import { Card, CardGroup, Container, Col, Row, Image } from 'react-bootstrap'
