@@ -5,7 +5,7 @@ import  'bootstrap/dist/css/bootstrap.min.css';
 import s from './form.module.css'
 import Formik from './formik'
 import Formfinish  from './formfinish'
-
+import Image from 'next/image'
 
 const Form = () => {
 
