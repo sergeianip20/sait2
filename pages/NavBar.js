@@ -6,7 +6,7 @@ import s from './navbar.module.css'
 import Router from 'react-router'
 import Form from './Form'
 import Finish from './finish'
-
+import Image from 'next/image'
 
 const NavBar = () => {
 return   <div>
