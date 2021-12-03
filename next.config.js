@@ -18,7 +18,7 @@ module.exports = {
 'sun9-24.userapi.com',
 'sun9-87.userapi.com',
 'sun9-64.userapi.com',
-'sun9-39.userapi.com',
+'sun9-88.userapi.com',
 ]
 }
 }
