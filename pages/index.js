@@ -10,7 +10,7 @@ import Footer from './footer'
 import Slider from './slider.js';
 import { Card, CardGroup, Container, Col, Row, Image } from 'react-bootstrap'
 
-function Home() {
+ export default function Home() {
 	
   return   <div className={s.index_wrapper}>
 <header> <NavBar/></header>
@@ -36,4 +36,4 @@ function Home() {
  
 }
 
-export default Home
+
